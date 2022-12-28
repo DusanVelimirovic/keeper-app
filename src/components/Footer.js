@@ -5,7 +5,7 @@ function Footer(){
     return(
         <footer>
         <p>
-            copyright {date}
+            copyright {date} Dušan Velimirović
         </p>
     </footer>
     ) 
